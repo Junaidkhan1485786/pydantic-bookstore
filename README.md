@@ -5,7 +5,7 @@ Step 1 : Install libraries
 
 To create an API using FastAPI, install both FastAPI and Uvicorn. FastAPI is used for building the API, and Uvicorn is used to run the server. Therefore, it is necessary to install both of these libraries on your system.
 
-pip install fastapi  
+pip install fastapi   
 pip install uvicorn
 Step 2: Python code
 
